@@ -1,0 +1,30 @@
+{
+  "name": "gulp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NatalinDe27/Gulp.git"
+  },
+  "author": "Natalia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NatalinDe27/Gulp/issues"
+  },
+  "homepage": "https://github.com/NatalinDe27/Gulp#readme",
+  "devDependencies": {
+    "@babel/core": "^7.20.5",
+    "@babel/preset-env": "^7.20.2",
+    "del": "^5.1.0",
+    "gulp": "^4.0.2",
+    "gulp-babel": "^8.0.0"
+
+  },
+  "dependencies": {
+    "browser-sync": "^2.27.10"
+  }
+}
